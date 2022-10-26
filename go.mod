@@ -1,6 +1,6 @@
 module github.com/thomseddon/traefik-forward-auth
 
-go 1.13
+go 1.16
 
 require (
 	github.com/containous/traefik/v2 v2.1.2

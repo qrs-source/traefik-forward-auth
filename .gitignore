@@ -1,0 +1,6 @@
+.env
+*.json
+*.vscode
+*.crt
+traefik-forward-auth
+
